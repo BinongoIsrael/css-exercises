@@ -6,7 +6,7 @@ All you need to do is center the red div inside the blue container.
 ## Desired Outcome
 ![outcome](./desired-outcome.png)
 
-### Self Check
+### Self Checkfoundations/block-and-inline/02-margin-and-padding-2/style.css
 - Is the red div centered?
 - Did you _only_ use flexbox to center it?
 
